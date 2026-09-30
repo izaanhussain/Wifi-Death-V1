@@ -13,13 +13,13 @@
 **Firmware:** Coming soon  
 **Hardware build:** after gennting grant 
 
-This project is currently at the **PCB completed / firmware development** stage.
+This project is currently at the **PCB completed / firmware development** stage. Iam working on the firmware will upload it soon.
 
 ---
 
 ## What is this?
 
-WiFi Death V1 is a small custom ESP32-C3 based hardware project that I designed from the ground up.
+WiFi Death V1 is a small custom ESP32-C3 based hardware project that I designed from the ground up.The idea started when i saw a video of spacehunns esp8266 deauther and i knew i wanted to make this but with different board like the c3.
 
 The idea was to build a compact handheld device for learning about:
 
@@ -31,7 +31,7 @@ The idea was to build a compact handheld device for learning about:
 - Embedded firmware
 - Wireless security concepts
 
-This project is also my way of learning how a complete hardware + firmware project comes together.
+This project is also my way of learning how a complete hardware + firmware project comes together. I learned a lot as it was my 2nd time i did the designing faster!.
 
 ---
 
@@ -105,7 +105,7 @@ The repository contains:
 - BOM
 - PCB production files
 
-The PCB uses a **black solder mask** and has **"WIFI DEATH V1"** on the front silkscreen.
+The PCB uses a **black solder mask** so it looks cool and has **"WIFI DEATH V1"** on the front silkscreen. I also added the GitHub repo link in the backside of the pcb
 
 ---
 
