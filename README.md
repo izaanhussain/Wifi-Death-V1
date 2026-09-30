@@ -7,11 +7,11 @@
 
 ## Project Status
 
-**PCB:** Completed  
-**Schematic:** Completed  
-**Gerber files:** Completed  
-**Firmware:** Coming soon  
-**Hardware build:** after gennting grant 
+**PCB:** done
+**Schematic:** done
+**Gerber files:** done
+**Firmware:** working on it
+**Hardware build:** after getting grant 
 
 This project is currently at the **PCB completed / firmware development** stage. Iam working on the firmware will upload it soon.
 
