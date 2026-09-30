@@ -1,0 +1,4 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SW1, SW2, SW3, SW4";"SW_PUSH_6mm_H5mm";4;"SW_Push_Dual";;;
+2;"U1";"ESP32_C3_Super_Mini";1;"ESP32_C3_Super_Mini";;;
+3;"U2";"128x64OLED";1;"ER_OLEDM0.91_1x-I2C";;;
