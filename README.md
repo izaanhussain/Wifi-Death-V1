@@ -10,7 +10,7 @@
 **PCB:** Completed  
 **Schematic:** Completed  
 **Gerber files:** Completed  
-**Firmware:** 🚧 Coming soon  
+**Firmware:** Coming soon  
 **Hardware build:** after gennting grant 
 
 This project is currently at the **PCB completed / firmware development** stage.
