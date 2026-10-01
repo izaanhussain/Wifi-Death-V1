@@ -1,25 +1,20 @@
 # WiFi Death V1
 
-> A custom ESP32-C3 WiFi security/learning device with a 0.96" OLED display and four physical controls.
+> A custom ESP32-C3 WiFi testing/hacking device with a 0.96" OLED display and four physical controls.
 
-<img width="905" height="637" alt="PCB 3D" src="https://github.com/user-attachments/assets/794c15b4-8cc8-48ad-a4f4-ac3e2d8f2e5e" />
+<img width="950" height="665" alt="image" src="https://github.com/user-attachments/assets/78fe573b-2bf0-43dc-9432-4b25d3a0b8f2" />
+
 
 
 ## Project Status
 
-**PCB:** done
-**Schematic:** done
-**Gerber files:** done
-**Firmware:** working on it
-**Hardware build:** after getting grant 
-
-This project is currently at the **PCB completed / firmware development** stage. Iam working on the firmware will upload it soon.
-
+ the project almost done, all the firmware files are uploaded some 2-3 files are remaining which iam thinking of uploading after the project grant is approved 
+ 
 ---
 
 ## What is this?
 
-WiFi Death V1 is a small custom ESP32-C3 based hardware project that I designed from the ground up.The idea started when i saw a video of spacehunns esp8266 deauther and i knew i wanted to make this but with different board like the c3.
+WiFi Death V1 is a custom ESP32-C3 based wifi hcaking/testing hardware project that I designed , The idea started when i saw a video of spacehunns esp8266 deauther and i knew i wanted to make this but with different board like the c3.
 
 The idea was to build a compact handheld device for learning about:
 
@@ -88,11 +83,14 @@ The board is powered through the **USB-C connector on the ESP32-C3 SuperMini**.
 
   <img width="1162" height="826" alt="pcb shematics" src="https://github.com/user-attachments/assets/b630e069-4af2-4a78-9cc9-32ca22a03653" />
 
-  <img width="842" height="715" alt="PCB" src="https://github.com/user-attachments/assets/32438908-5114-414d-880a-3a03c9d623d8" />
+  <img width="813" height="613" alt="image" src="https://github.com/user-attachments/assets/8ee5f737-824a-4eb3-bf45-3c833226354f" />
 
-  <img width="905" height="637" alt="PCB 3D" src="https://github.com/user-attachments/assets/c83a3f66-50b5-491b-a8e9-31b1860d7475" />
+
+  <img width="892" height="682" alt="image" src="https://github.com/user-attachments/assets/c0e94a93-b898-4606-a8b2-27cf3b30f38e" />
+
   
-  <img width="1008" height="706" alt="PCB 3D BACK" src="https://github.com/user-attachments/assets/c46a0d92-8ab9-4541-b84c-b7a8055bf128" />
+  <img width="897" height="638" alt="image" src="https://github.com/user-attachments/assets/8c6de4d5-0b36-48f6-b748-5e78e25dcdb8" />
+
 
 The PCB was designed in **KiCad**.
 
