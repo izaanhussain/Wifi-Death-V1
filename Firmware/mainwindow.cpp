@@ -18,8 +18,8 @@ Mainwindow::~Mainwindow()
 void Mainwindow::init()
 {
   display_->startDisplay();
-  display_->setDisplayText("ESP32WifiDeautherV1.0", 0, 0, 1);
-  display_->appendDisplayText("mjlee111", 0, 6, 2);
+  display_->setDisplayText("WiFi Death V1", 0, 0, 1);
+  display_->appendDisplayText("dev-izaan", 0, 6, 2);
   display_->appendDisplayText("Starting ...", 0, 1, 1);
   if (SET_RANDOM_MAC)
   {
