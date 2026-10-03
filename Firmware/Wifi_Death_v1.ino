@@ -1,4 +1,4 @@
-// esp32_wifi_deauther.ino
+// Wifi_Death_v1.ino
 
 #include "mainwindow.h"
 
