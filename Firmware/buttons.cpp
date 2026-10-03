@@ -1,4 +1,3 @@
-// buttons.cpp
 #include "buttons.h"
 
 Buttons::Buttons(int sel_pin, int back_pin, int up_pin, int down_pin)
@@ -27,4 +26,6 @@ int Buttons::readButtons()
       return i;
     }
   }
+
+  return -1;
 }
