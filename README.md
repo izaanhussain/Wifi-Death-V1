@@ -8,13 +8,13 @@
 
 ## Project Status
 
- the project almost done, all the firmware files are uploaded some 2-3 files are remaining which iam thinking of uploading after the project grant is approved 
+ the project is completd , all the firmware files are uploaded too
  
 ---
 
 ## What is this?
 
-WiFi Death V1 is a custom ESP32-C3 based wifi hcaking/testing hardware project that I designed , The idea started when i saw a video of spacehunns esp8266 deauther and i knew i wanted to make this but with different board like the c3.
+WiFi Death V1 is a custom ESP32-C3 based wifi hacking/testing hardware project that I designed , The idea started when i saw a video of spacehunns esp8266 deauther and i knew i wanted to make this but with different board like the c3.
 
 The idea was to build a compact handheld device for learning about:
 
@@ -27,6 +27,10 @@ The idea was to build a compact handheld device for learning about:
 - Wireless security concepts
 
 This project is also my way of learning how a complete hardware + firmware project comes together. I learned a lot as it was my 2nd time i did the designing faster!.
+
+This inclued features like
+- Wifi Scanning
+- low level deauth
 
 ---
 
