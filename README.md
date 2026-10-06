@@ -16,18 +16,6 @@
 
 WiFi Death V1 is a custom ESP32-C3 based wifi hacking/testing hardware project that I designed , The idea started when i saw a video of spacehunns esp8266 deauther and i knew i wanted to make this but with different board like the c3.
 
-The idea was to build a compact handheld device for learning about:
-
-- ESP32-C3 hardware
-- WiFi networking
-- OLED displays
-- Physical button interfaces
-- PCB design with KiCad
-- Embedded firmware
-- Wireless security concepts
-
-This project is also my way of learning how a complete hardware + firmware project comes together. I learned a lot as it was my 2nd time i did the designing faster!.
-
 This inclued features like
 - Wifi Scanning
 - low level deauth
