@@ -4,12 +4,16 @@
 
 <img width="950" height="665" alt="image" src="https://github.com/user-attachments/assets/78fe573b-2bf0-43dc-9432-4b25d3a0b8f2" />
 
+## Required Library Setup
 
+Open Arduino IDE
+Install OLED libraries: Tools -> Manage Libraries -> search Adafruit SSD1306 -> install
+fig1
 
-## Project Status
+Add esp32 additional board manager URL: Files -> Preferences -> add https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json to Additional Boards Manager URLs
 
- the project is completd , all the firmware files are uploaded too
- 
+Install esp32 board manager: Tools -> Board -> Boards Manager -> search esp32 -> install esp32 by Espressif Systems
+
 ---
 
 ## What is this?
