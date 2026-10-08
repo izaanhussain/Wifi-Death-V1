@@ -14,6 +14,13 @@ Add esp32 additional board manager URL: Files -> Preferences -> add https://raw.
 
 Install esp32 board manager: Tools -> Board -> Boards Manager -> search esp32 -> install esp32 by Espressif Systems
 
+## Firmware Installation 
+
+1. Clone the repo or Download raw .zip file
+2. open Arduino IDE
+3. open esp_wifi_deauther.ino
+4. upload to your device
+
 ---
 
 ## What is this?
