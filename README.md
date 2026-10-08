@@ -18,7 +18,7 @@ Install esp32 board manager: Tools -> Board -> Boards Manager -> search esp32 ->
 
 1. Clone the repo or Download raw .zip file
 2. open Arduino IDE
-3. open esp_wifi_deauther.ino
+3. open Wifi_Death_v1.ino
 4. upload to your device
 
 ---
