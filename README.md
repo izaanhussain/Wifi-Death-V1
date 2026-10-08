@@ -27,12 +27,15 @@ Install esp32 board manager: Tools -> Board -> Boards Manager -> search esp32 ->
 
 WiFi Death V1 is a custom ESP32-C3 based wifi hacking/testing hardware project that I designed , The idea started when i saw a video of spacehunns esp8266 deauther and i knew i wanted to make this but with different board like the c3.
 
-## Key Features 
-• WiFi Scanning: The project can scan for available WiFi networks in the vicinity and display information about them, such as their name, signal strength, and channel.
-• Deauthentication Attacks: With the push of a button, the project can perform deauthentication attacks on specific networks or clients, making it useful for penetration testing and network security auditing.
-• 0.96-inch OLED Display: The project uses a small OLED display to show information about the networks in real-time.
-• Circuit Design: The project's circuit is relatively simple and only requires connecting the ESP32 board to the OLED display.
-
+## Key Features
+- WiFi Scanning: The project can scan for available WiFi networks in the vicinity and display information about them, such as their name, signal strength, and channel.
+  
+- Deauthentication Attacks: With the push of a button, the project can perform deauthentication attacks on specific networks or clients, making it useful for penetration testing and network security auditing.
+  
+- 0.96-inch OLED Display: The project uses a small OLED display to show information about the networks in real-time.
+  
+- Circuit Design: The project's circuit is relatively simple and only requires connecting the ESP32 board to the OLED display.
+  
 ---
 
 ## Hardware
